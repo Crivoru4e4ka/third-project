@@ -43,10 +43,6 @@ third-sprint/
 └── images/                 # Изображения
 ```
 
-## GitHub Pages
-
-[Ссылка на GitHub Pages](https://Crivoru4e4ka.github.io/third-sprint/)
-
 ## Особенности реализации
 
 - Использование шрифта Inter
